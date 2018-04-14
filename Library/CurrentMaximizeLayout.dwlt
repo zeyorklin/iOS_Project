@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 421}
   m_MaxSize: {x: 12004, y: 8021}
   vertical: 0
-  controlID: 7876
+  controlID: 8031
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -156,8 +156,8 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0e3f0000
-    m_LastClickedID: 16142
+    m_SelectedIDs: 7c53f1ff
+    m_LastClickedID: -961668
     m_ExpandedIDs: dc2df5ff782ff5ff2034f5ff144af5ff7051f5ffe86df5fffc6ff5ff5c78f5ff1884f5ffbe84f5ffe485f5ffb66ef7ff7e69f9ff342affffb488ffff8889ffff18f6ffffd8f9ffff00000000263d0000343d0000463d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -204,7 +204,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 421}
   m_MaxSize: {x: 4004, y: 8021}
   vertical: 1
-  controlID: 7877
+  controlID: 8032
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -260,14 +260,14 @@ MonoBehaviour:
     height: 478
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 29223.33958899975
+  lastFramingTime: 266133.32519602776
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 2.0000005, z: 1}
+    m_Target: {x: 0.43439078, y: 1.3009322, z: -0.0037136078}
     speed: 2
-    m_Value: {x: 0, y: 2.0000005, z: 1}
+    m_Value: {x: 0.43439078, y: 1.3009322, z: -0.0037136078}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -291,13 +291,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.2848262, y: 0.0014379724, z: -0.00042724732, w: 0.95857805}
+    m_Target: {x: -0.04578224, y: 0.034457732, z: -0.0015800752, w: -0.9983558}
     speed: 2
-    m_Value: {x: -0.2848262, y: -0.0014379725, z: 0.00042724735, w: -0.95857805}
+    m_Value: {x: -0.04578224, y: 0.034457732, z: -0.0015800752, w: -0.9983558}
   m_Size:
-    m_Target: 16.166637
+    m_Target: 9.457887
     speed: 2
-    m_Value: 16.166637
+    m_Value: 9.457887
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -383,8 +383,8 @@ MonoBehaviour:
     y: 499
     width: 953
     height: 351
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 11}
@@ -432,18 +432,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Materials
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 75
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Prefabs
   m_LastFoldersGridSize: 75
   m_LastProjectPath: /Users/tonylin/Documents/ios_Project
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b8290000
-    m_LastClickedID: 10680
+    m_SelectedIDs: 562f0000
+    m_LastClickedID: 12118
     m_ExpandedIDs: c2280000b829000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -497,9 +497,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: f43e0000
-    m_LastClickedInstanceID: 16116
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 7c53f1ff
+    m_LastClickedInstanceID: -961668
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: a0260000a82500007c250000842500004c35000032270000922f0000a62f0000262a000088300000f2260000e2240000e42400005a270000000000002a490100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -516,7 +516,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
