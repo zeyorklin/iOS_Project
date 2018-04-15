@@ -234,15 +234,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Camera\CameraController.cs" />
-    <Compile Include="Assets\Scripts\GameController\TunnelGenerator.cs" />
-    <Compile Include="Assets\Scripts\Player\RotateBall.cs" />
+    <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\GameController.cs" />
+    <Compile Include="Assets\Scripts\GenObs.cs" />
+    <Compile Include="Assets\Scripts\GenObsTunnel.cs" />
+    <Compile Include="Assets\Scripts\ObstacleRotator.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\RotateBall.cs" />
+    <Compile Include="Assets\Scripts\Rotator.cs" />
     <Compile Include="Assets\Scripts\Test Scripts\AutoGen.cs" />
-    <Compile Include="Assets\Scripts\ToRemove\Rotator.cs" />
-    <Compile Include="Assets\Scripts\Tunnel\Obstacles\ObstacleGenerator.cs" />
-    <Compile Include="Assets\Scripts\Tunnel\Obstacles\ObstacleManager.cs" />
-    <Compile Include="Assets\Scripts\Tunnel\TunnelRotator.cs" />
+    <Compile Include="Assets\Scripts\TunnelDuplication.cs" />
+    <Compile Include="Assets\Scripts\TunnelGenerator.cs" />
+    <Compile Include="Assets\Scripts\TunnelRotator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
