@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOS_Project-master", "iOS_Project-master.csproj", "{D14A3C82-C096-16F5-1C6E-2FADCAA8C15A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14A3C82-C096-16F5-1C6E-2FADCAA8C15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14A3C82-C096-16F5-1C6E-2FADCAA8C15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14A3C82-C096-16F5-1C6E-2FADCAA8C15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14A3C82-C096-16F5-1C6E-2FADCAA8C15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
