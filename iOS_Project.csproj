@@ -85,10 +85,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\ObstacleRotator.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\RotateBall.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
-    <Compile Include="Assets\Scripts\TunnelDuplication.cs" />
+    <Compile Include="Assets\Scripts\Test Scripts\AutoGen.cs" />
     <Compile Include="Assets\Scripts\TunnelGenerator.cs" />
     <Compile Include="Assets\Scripts\TunnelRotator.cs" />
   </ItemGroup>
