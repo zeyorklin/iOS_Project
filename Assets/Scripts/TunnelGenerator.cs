@@ -14,8 +14,12 @@ public class TunnelGenerator : MonoBehaviour {
 		tunnelCutoutArr = new GameObject[numTunnelCutout];
 		for (int x = 0; x < numTunnelCutout; x++) {
 			tunnelCutoutArr [x] = (GameObject)Instantiate (tunnelCutout, new Vector3 (0, 0, -12 + x * 3), Quaternion.identity);
+            
+        }
+        for (int x = 0; x < numTunnelCutout; x++)
+        {
             int n = Random.Range(1, maxObs + 1);
-            //tunnelCutoutArr[x].GetComponent<GenObsTunnel>().GenObsT(n);
+            tunnelCutoutArr[x].GetComponent<GenObsTunnel>().GenObsT(n);
         }
     }
 	

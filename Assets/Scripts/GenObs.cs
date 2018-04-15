@@ -9,7 +9,7 @@ public class GenObs : MonoBehaviour {
     private GameObject myObs;
 
 	// Use this for initialization
-	void Start () {
+	void Awake () {
         hasObs = false;
         GenObsCube();
 	}
