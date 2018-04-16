@@ -87,12 +87,15 @@
     <Compile Include="Assets\Scripts\Camera\CameraController.cs" />
     <Compile Include="Assets\Scripts\GameController\TunnelGenerator.cs" />
     <Compile Include="Assets\Scripts\Player\RotateBall.cs" />
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Test Scripts\AutoGen.cs" />
     <Compile Include="Assets\Scripts\ToRemove\Rotator.cs" />
     <Compile Include="Assets\Scripts\Tunnel\Obstacles\ObstacleGenerator.cs" />
     <Compile Include="Assets\Scripts\Tunnel\Obstacles\ObstacleManager.cs" />
     <Compile Include="Assets\Scripts\Tunnel\TunnelRotator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Plugins\GitHub\Editor\CREDITS.txt" />
+    <None Include="Assets\Plugins\GitHub\Editor\EULA.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
