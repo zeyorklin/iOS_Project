@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Pickup
   - Tunnel Cutout
+  - Obstacle
   layers:
   - Default
   - TransparentFX
