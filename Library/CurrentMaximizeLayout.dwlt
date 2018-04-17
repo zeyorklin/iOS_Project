@@ -19,12 +19,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 2560
-    height: 1290
-  m_MinSize: {x: 683, y: 442}
-  m_MaxSize: {x: 12008, y: 8042}
+    width: 1920
+    height: 924
+  m_MinSize: {x: 681, y: 421}
+  m_MaxSize: {x: 12006, y: 8021}
   vertical: 0
-  controlID: 980
+  controlID: 605
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -48,9 +48,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 2
-    y: 777
-    width: 1690
-    height: 509
+    y: 561
+    width: 1266
+    height: 359
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
@@ -59,10 +59,10 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -845
-    m_HBaseRangeMax: 845
-    m_VBaseRangeMin: -246
-    m_VBaseRangeMax: 246
+    m_HBaseRangeMin: -633
+    m_HBaseRangeMax: 633
+    m_VBaseRangeMin: -171
+    m_VBaseRangeMax: 171
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -79,25 +79,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 1690
-      height: 492
+      width: 1266
+      height: 342
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 845, y: 246}
+    m_Translation: {x: 633, y: 171}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -845
-      y: -246
-      width: 1690
-      height: 492
+      x: -633
+      y: -171
+      width: 1266
+      height: 342
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1690, y: 509}
+  m_LastWindowPixelSize: {x: 1266, y: 359}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -117,8 +117,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 359
-    height: 1290
+    width: 269
+    height: 924
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 4}
@@ -149,13 +149,13 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 101
-    width: 357
-    height: 1269
+    y: 107
+    width: 267
+    height: 903
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d4260000
-    m_LastClickedID: 9940
+    m_SelectedIDs: 42060000
+    m_LastClickedID: 0
     m_ExpandedIDs: defbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -195,14 +195,14 @@ MonoBehaviour:
   - {fileID: 10}
   m_Position:
     serializedVersion: 2
-    x: 359
+    x: 269
     y: 0
-    width: 1694
-    height: 1290
-  m_MinSize: {x: 204, y: 442}
-  m_MaxSize: {x: 4004, y: 8042}
+    width: 1270
+    height: 924
+  m_MinSize: {x: 204, y: 421}
+  m_MaxSize: {x: 4004, y: 8021}
   vertical: 1
-  controlID: 956
+  controlID: 606
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,10 +219,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1694
-    height: 760
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+    width: 1270
+    height: 544
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 7}
   m_Panes:
   - {fileID: 7}
@@ -252,19 +252,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 361
-    y: 101
-    width: 1690
-    height: 739
+    x: 271
+    y: 107
+    width: 1266
+    height: 523
   m_SceneLighting: 1
   lastFramingTime: 5837.023271796475
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.36217174, y: 0.57945085, z: -3.0549886}
+    m_Target: {x: -0.32924843, y: 1.7770967, z: -3.114087}
     speed: 2
-    m_Value: {x: -0.36217174, y: 0.57945085, z: -3.0549886}
+    m_Value: {x: -0.32924843, y: 1.7770967, z: -3.114087}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -373,9 +373,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 760
-    width: 1694
-    height: 530
+    y: 544
+    width: 1270
+    height: 380
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 2}
@@ -408,10 +408,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 361
-    y: 861
-    width: 1690
-    height: 509
+    x: 271
+    y: 651
+    width: 1266
+    height: 359
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -423,19 +423,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts/ToRemove
+    - Assets/Scripts/Player
   m_ViewMode: 1
   m_StartGridSize: 75
   m_LastFolders:
-  - Assets/Scripts/ToRemove
+  - Assets/Scripts/Player
   m_LastFoldersGridSize: 75
   m_LastProjectPath: E:\iOS_Project
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 92260000
-    m_LastClickedID: 9874
-    m_ExpandedIDs: 000000001c2500007e250000f4250000ac26000000ca9a3bffffff7f
+    m_SelectedIDs: 8a250000
+    m_LastClickedID: 9610
+    m_ExpandedIDs: 000000001a2500007c250000f2250000aa26000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -463,7 +463,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001c2500007e250000f4250000ac26000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000001a2500007c250000f2250000aa26000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,8 +488,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: d4260000
-    m_LastClickedInstanceID: 9940
+    m_SelectedInstanceIDs: 42060000
+    m_LastClickedInstanceID: 1602
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: a0260000a82500007c250000842500004c35000032270000922f0000a62f0000262a000088300000f2260000e2240000e42400005a270000000000002a490100
     m_RenameOverlay:
@@ -601,12 +601,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 2053
+    x: 1539
     y: 0
-    width: 507
-    height: 1290
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+    width: 381
+    height: 924
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -635,10 +635,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 2055
-    y: 101
-    width: 505
-    height: 1269
+    x: 1541
+    y: 107
+    width: 379
+    height: 903
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
@@ -1723,7 +1723,6 @@ MonoBehaviour:
         - .vs\ios_Project
         - .vs\ios_Project\v15
         - Library
-        - Library\ScriptAssemblies
         - Library\metadata
         - Library\metadata\00
         - Library\metadata\04
@@ -1903,24 +1902,6 @@ MonoBehaviour:
         - path: Library
           label: Library
           level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            status: 0
-            staged: 0
-        - path: Library\ScriptAssemblies
-          label: ScriptAssemblies
-          level: 1
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -4232,8 +4213,8 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: Library\CurrentLayout.dwlt
-        label: CurrentLayout.dwlt
+      - path: Library\CurrentMaximizeLayout.dwlt
+        label: CurrentMaximizeLayout.dwlt
         level: 1
         isFolder: 0
         isContainer: 0
@@ -4244,117 +4225,9 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Library\CurrentLayout.dwlt
-          fullPath: E:\iOS_Project\Library\CurrentLayout.dwlt
-          projectPath: Library\CurrentLayout.dwlt
-          originalPath: 
-          status: 3
-          staged: 0
-      - path: Library\LastSceneManagerSetup.txt
-        label: LastSceneManagerSetup.txt
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\LastSceneManagerSetup.txt
-          fullPath: E:\iOS_Project\Library\LastSceneManagerSetup.txt
-          projectPath: Library\LastSceneManagerSetup.txt
-          originalPath: 
-          status: 3
-          staged: 0
-      - path: Library\ScriptAssemblies
-        label: ScriptAssemblies
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          status: 0
-          staged: 0
-      - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-        label: Assembly-CSharp.dll
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\ScriptAssemblies\Assembly-CSharp.dll
-          fullPath: E:\iOS_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
-          projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-          originalPath: 
-          status: 3
-          staged: 0
-      - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-        label: Assembly-CSharp.dll.mdb
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-          fullPath: E:\iOS_Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-          projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-          originalPath: 
-          status: 3
-          staged: 0
-      - path: Library\assetDatabase3
-        label: assetDatabase3
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\assetDatabase3
-          fullPath: E:\iOS_Project\Library\assetDatabase3
-          projectPath: Library\assetDatabase3
-          originalPath: 
-          status: 3
-          staged: 0
-      - path: Library\expandedItems
-        label: expandedItems
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\expandedItems
-          fullPath: E:\iOS_Project\Library\expandedItems
-          projectPath: Library\expandedItems
+          path: Library\CurrentMaximizeLayout.dwlt
+          fullPath: E:\iOS_Project\Library\CurrentMaximizeLayout.dwlt
+          projectPath: Library\CurrentMaximizeLayout.dwlt
           originalPath: 
           status: 3
           staged: 0
@@ -11360,24 +11233,6 @@ MonoBehaviour:
           originalPath: 
           status: 5
           staged: 0
-      - path: iOS_Project.csproj
-        label: iOS_Project.csproj
-        level: 0
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: iOS_Project.csproj
-          fullPath: E:\iOS_Project\iOS_Project.csproj
-          projectPath: iOS_Project.csproj
-          originalPath: 
-          status: 3
-          staged: 0
       - path: Assets
         label: Assets
         level: 0
@@ -13168,39 +13023,9 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
-    - path: Library\CurrentLayout.dwlt
-      fullPath: E:\iOS_Project\Library\CurrentLayout.dwlt
-      projectPath: Library\CurrentLayout.dwlt
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\LastSceneManagerSetup.txt
-      fullPath: E:\iOS_Project\Library\LastSceneManagerSetup.txt
-      projectPath: Library\LastSceneManagerSetup.txt
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-      fullPath: E:\iOS_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
-      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-      fullPath: E:\iOS_Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\assetDatabase3
-      fullPath: E:\iOS_Project\Library\assetDatabase3
-      projectPath: Library\assetDatabase3
-      originalPath: 
-      status: 3
-      staged: 0
-    - path: Library\expandedItems
-      fullPath: E:\iOS_Project\Library\expandedItems
-      projectPath: Library\expandedItems
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: E:\iOS_Project\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
       originalPath: 
       status: 3
       staged: 0
@@ -14890,12 +14715,6 @@ MonoBehaviour:
       originalPath: 
       status: 5
       staged: 0
-    - path: iOS_Project.csproj
-      fullPath: E:\iOS_Project\iOS_Project.csproj
-      projectPath: iOS_Project.csproj
-      originalPath: 
-      status: 3
-      staged: 0
     - path: Assets\Plugins.meta
       fullPath: E:\iOS_Project\Assets\Plugins.meta
       projectPath: Assets\Plugins.meta
@@ -15406,23 +15225,77 @@ MonoBehaviour:
       originalPath: 
       status: 1
       staged: 0
-    changedFilesText: 374 changed files
+    changedFilesText: 368 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2018-04-15T19:51:21.0524174-04:00
+      updatedTimeString: 2018-04-16T20:50:56.6268768-04:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2018-04-15T20:14:23.1734702-04:00
+      updatedTimeString: 0001-01-01T00:00:00.0000000+00:00
       cacheType: 5
     lastLocksChangedEvent:
-      updatedTimeString: 2018-04-15T20:14:22.6854423-04:00
+      updatedTimeString: 2018-04-16T21:02:16.6307807-04:00
       cacheType: 6
   historyView:
     hasItemsToCommit: 1
     hasRemote: 1
     currentRemoteName: origin
     historyControl:
-      scroll: {x: 0, y: 0}
+      scroll: {x: 0, y: 40}
       entries:
+      - commitID: 0cb4b559900d60048e00da5cd9eb15886561507c
+        mergeA: 
+        mergeB: 
+        authorName: Tony Zheyu Lin
+        authorEmail: tonyzeyorklin@gmail.com
+        commitEmail: tonyzeyorklin@gmail.com
+        commitName: Tony Zheyu Lin
+        summary: New camera angle
+        description: New camera angle
+        timeString: 2018-04-15T20:16:26.0000000-04:00
+        commitTimeString: 2018-04-15T20:16:26.0000000-04:00
+        changes:
+        - path: Library\CurrentLayout.dwlt
+          fullPath: E:\iOS_Project\Library\CurrentLayout.dwlt
+          projectPath: Library\CurrentLayout.dwlt
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\CurrentMaximizeLayout.dwlt
+          fullPath: E:\iOS_Project\Library\CurrentMaximizeLayout.dwlt
+          projectPath: Library\CurrentMaximizeLayout.dwlt
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+          fullPath: E:\iOS_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+          projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+          fullPath: E:\iOS_Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+          projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\assetDatabase3
+          fullPath: E:\iOS_Project\Library\assetDatabase3
+          projectPath: Library\assetDatabase3
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Library\expandedItems
+          fullPath: E:\iOS_Project\Library\expandedItems
+          projectPath: Library\expandedItems
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: iOS_Project.csproj
+          fullPath: E:\iOS_Project\iOS_Project.csproj
+          projectPath: iOS_Project.csproj
+          originalPath: 
+          status: 3
+          staged: 0
       - commitID: 71b69a01ac5898d1b550d27ad76b09bb0cf68fc4
         mergeA: 
         mergeB: 
@@ -34040,7 +33913,7 @@ MonoBehaviour:
           status: 4
           staged: 0
       statusAhead: 0
-      selectedIndex: 0
+      selectedIndex: 1
     selectedEntry:
       commitID: 71b69a01ac5898d1b550d27ad76b09bb0cf68fc4
       mergeA: 
@@ -34068,6 +33941,60 @@ MonoBehaviour:
         staged: 0
     detailsScroll: {x: 0, y: 0}
     logEntries:
+    - commitID: 0cb4b559900d60048e00da5cd9eb15886561507c
+      mergeA: 
+      mergeB: 
+      authorName: Tony Zheyu Lin
+      authorEmail: tonyzeyorklin@gmail.com
+      commitEmail: tonyzeyorklin@gmail.com
+      commitName: Tony Zheyu Lin
+      summary: New camera angle
+      description: New camera angle
+      timeString: 2018-04-15T20:16:26.0000000-04:00
+      commitTimeString: 2018-04-15T20:16:26.0000000-04:00
+      changes:
+      - path: Library\CurrentLayout.dwlt
+        fullPath: E:\iOS_Project\Library\CurrentLayout.dwlt
+        projectPath: Library\CurrentLayout.dwlt
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\CurrentMaximizeLayout.dwlt
+        fullPath: E:\iOS_Project\Library\CurrentMaximizeLayout.dwlt
+        projectPath: Library\CurrentMaximizeLayout.dwlt
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+        fullPath: E:\iOS_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+        projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+        fullPath: E:\iOS_Project\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+        projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\assetDatabase3
+        fullPath: E:\iOS_Project\Library\assetDatabase3
+        projectPath: Library\assetDatabase3
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Library\expandedItems
+        fullPath: E:\iOS_Project\Library\expandedItems
+        projectPath: Library\expandedItems
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: iOS_Project.csproj
+        fullPath: E:\iOS_Project\iOS_Project.csproj
+        projectPath: iOS_Project.csproj
+        originalPath: 
+        status: 3
+        staged: 0
     - commitID: 71b69a01ac5898d1b550d27ad76b09bb0cf68fc4
       mergeA: 
       mergeB: 
@@ -52848,13 +52775,13 @@ MonoBehaviour:
           status: 0
           staged: 0
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2018-04-15T19:51:21.0524174-04:00
+      updatedTimeString: 2018-04-15T20:16:37.6661628-04:00
       cacheType: 1
     lastLogChangedEvent:
-      updatedTimeString: 2018-04-15T19:51:21.5014431-04:00
+      updatedTimeString: 2018-04-15T20:16:38.0961874-04:00
       cacheType: 3
     lastAheadBehindChangedEvent:
-      updatedTimeString: 2018-04-15T19:51:10.2638003-04:00
+      updatedTimeString: 2018-04-15T20:16:37.6831637-04:00
       cacheType: 4
   settingsView:
     gitPathView:
@@ -52903,5 +52830,5 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the master remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2018-04-15T19:51:21.0524174-04:00
+    updatedTimeString: 2018-04-15T20:16:37.6661628-04:00
     cacheType: 1
