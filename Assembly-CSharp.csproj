@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{46AD23A1-F26E-D728-3969-D1F14C6C8025}</ProjectGuid>
+    <ProjectGuid>{60F98E7E-5510-7C7F-8A21-CE1FFA69FFB4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,15 +51,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CameraController.cs" />
-     <Compile Include="Assets\Scripts\ObstacleRotator.cs" />
-     <Compile Include="Assets\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\RotateBall.cs" />
-     <Compile Include="Assets\Scripts\Rotator.cs" />
+     <Compile Include="Assets\Scripts\Camera\CameraController.cs" />
+     <Compile Include="Assets\Scripts\GameController\TunnelGenerator.cs" />
+     <Compile Include="Assets\Scripts\Player\RotateBall.cs" />
      <Compile Include="Assets\Scripts\Test Scripts\AutoGen.cs" />
-     <Compile Include="Assets\Scripts\TunnelDuplication.cs" />
-     <Compile Include="Assets\Scripts\TunnelGenerator.cs" />
-     <Compile Include="Assets\Scripts\TunnelRotator.cs" />
+     <Compile Include="Assets\Scripts\ToRemove\Rotator.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\Obstacles\ObstacleGenerator.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\Obstacles\ObstacleManager.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\TunnelRotator.cs" />
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
  </Reference>
