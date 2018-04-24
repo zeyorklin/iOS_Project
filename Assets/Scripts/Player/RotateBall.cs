@@ -30,14 +30,16 @@ public class RotateBall : MonoBehaviour {
     {
 		transform.Rotate (new Vector3 (0, 0, rotatingSpeed) * Time.deltaTime);
 		timer += Time.deltaTime;
-		if (Input.GetKey ("left")) {
+
+		//Ball animation for moving sideways when rotating the tunnel
+		/*if (Input.GetKey ("left")) {
 			transform.Rotate (new Vector3 (-rotatingSpeed/2, 0, rotatingSpeed/2) * Time.deltaTime);
 		} else if (Input.GetKey ("right")) {
 			transform.Rotate (new Vector3 (rotatingSpeed/2, 0, rotatingSpeed/2) * Time.deltaTime);
 		} else {
 			if(transform.rotation != target.rotation) //if ball's rotation changed, rotate back
 				transform.rotation = Quaternion.RotateTowards (transform.rotation, target.rotation, rotateBackSpeed*Time.deltaTime);
-		}
+		}*/
 		if(Input.GetKey("space") && transform.position.y <= 0.5)
         {
 			Debug.Log (timer);
